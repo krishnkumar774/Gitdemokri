@@ -20,3 +20,5 @@ class ConfirmationPage:
         return self.driver.find_element(*ConfirmationPage.Purchage)
     def testVaueMatch(self):
         return self.driver.find_element(*ConfirmationPage.TestvalueMatch)
+
+    # hi Krishn please git code is updated now by user Gitdemokri
