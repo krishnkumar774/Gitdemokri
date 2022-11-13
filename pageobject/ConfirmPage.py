@@ -28,4 +28,7 @@ class ConfirmationPage:
     def testVaueMatch49999999999999999999999(self):
         return self.driver.find_element(*ConfirmationPage.TestvalueMatch)
 
+    def testVaueMatch10010101010101(self):
+        return self.driver.find_element(*ConfirmationPage.TestvalueMatch)
+
 
